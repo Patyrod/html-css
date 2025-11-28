@@ -52,7 +52,7 @@ Módulo 5: Layouts Modernos (Em Andamento)
 ex027: Flexbox (Múltiplos exemplos de flex-direction, justify-content, align-items, etc.).
 Próximos Passos: Grid Layout e Projeto Final de Portfólio.
 
-🔗 Como Visualizar os Projetos
+🔗 Como Visualizar os Projetos: 
 Para visualizar qualquer exercício, basta navegar até a pasta correspondente (exercicios/exXX) e abrir o arquivo index.html (ou o arquivo principal) diretamente no seu navegador.
 
 🎓 Sobre o Curso
